@@ -1,4 +1,4 @@
-# Pyros_Chromatics_All
+# My Chromatic Collection
 These are a collection of all my chromatic scales I've made.
 
 They will be categorised, and you will be able to find all the ones I have made.
